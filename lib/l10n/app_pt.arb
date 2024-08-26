@@ -1,0 +1,10 @@
+{
+  "nome_app": "Basquete",
+  "titulo_pagina": "Placar Basquete",
+  "mandante": "São Paulo",
+  "visitante": "Flamengo",
+  "lance_livre": "Lance Livre",
+  "dois_pontos": "2 Pontos",
+  "tres_pontos": "3 Pontos",
+  "botao_voltar": "Voltar Lance"
+}
